@@ -1,0 +1,13 @@
+E:\Training\Non_Generic\Non_Generic\obj\Debug\Non_Generic.csproj.AssemblyReference.cache
+E:\Training\Non_Generic\Non_Generic\obj\Debug\Non_Generic.csproj.SuggestedBindingRedirects.cache
+E:\Training\Non_Generic\Non_Generic\obj\Debug\Non_Generic.csproj.CoreCompileInputs.cache
+E:\Training\Non_Generic\Non_Generic\bin\Debug\Non_Generic.exe.config
+E:\Training\Non_Generic\Non_Generic\bin\Debug\Non_Generic.exe
+E:\Training\Non_Generic\Non_Generic\bin\Debug\Non_Generic.pdb
+E:\Training\Non_Generic\Non_Generic\obj\Debug\Non_Generic.exe
+E:\Training\Non_Generic\Non_Generic\obj\Debug\Non_Generic.pdb
+E:\Training\Assignment_On_Collection\Non_Generic\Non_Generic\obj\Debug\Non_Generic.csproj.AssemblyReference.cache
+E:\Training\Assignment_On_Collection\Non_Generic\Non_Generic\obj\Debug\Non_Generic.csproj.SuggestedBindingRedirects.cache
+E:\Training\Assignment_On_Collection\Non_Generic\Non_Generic\obj\Debug\Non_Generic.csproj.CoreCompileInputs.cache
+E:\Training\Assignment_On_Collection\Non_Generic\Non_Generic\obj\Debug\Non_Generic.exe
+E:\Training\Assignment_On_Collection\Non_Generic\Non_Generic\obj\Debug\Non_Generic.pdb
