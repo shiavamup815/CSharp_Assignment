@@ -1,0 +1,8 @@
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\obj\Debug\Generic_Collection.csproj.AssemblyReference.cache
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\obj\Debug\Generic_Collection.csproj.SuggestedBindingRedirects.cache
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\obj\Debug\Generic_Collection.csproj.CoreCompileInputs.cache
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\bin\Debug\Generic_Collection.exe.config
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\bin\Debug\Generic_Collection.exe
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\bin\Debug\Generic_Collection.pdb
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\obj\Debug\Generic_Collection.exe
+E:\Training\Assignment_On_Collection\Generic_Collection\Generic_Collection\obj\Debug\Generic_Collection.pdb
